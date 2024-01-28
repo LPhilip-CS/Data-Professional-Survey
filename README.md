@@ -1,5 +1,7 @@
 # Data Professional Survey 📊
 
+This survey aims to gather valuable insights from data analysts across various industries. Learn about the diverse backgrounds and roles within the data analyst community. Understand the factors that contribute to job satisfaction and identify common challenges faced by data analysts. Explore the skills and tools that data analysts find most valuable in their day-to-day work.
+
 ![2461-dataanalyst12 pngL](https://github.com/LPhilip-CS/Data-Professional-Survey/assets/98559773/cfc42d44-baa2-4969-b4fe-031a2917d938)
 
 Below is a brief overview to help you navigate through the project:
@@ -36,3 +38,5 @@ Visualization:
 
 ## Feedback and Support:
 - Share your feedback, suggestions, or report issues.
+- Whether you're just starting your career or you're a seasoned professional, your input is crucial in helping us understand the landscape of data analysis roles, challenges, and trends.
+
